@@ -20,31 +20,24 @@ LeetCode
 
 ## 操作系统
 
-Linux高性能服务器编程
-
-Unix环境高级编程
-
-Unix网络编程
-
-Linux内核设计与实现
-
-深入理解Linux内核
+- Linux高性能服务器编程
+- Unix环境高级编程
+- Unix网络编程
+- Linux内核设计与实现
+- 深入理解Linux内核
+- 深入理解计算机系统
 
 ### 计算机网络
 
-计算机网络第7版
-
-TCP/IP详解
+- 计算机网络第7版
+- TCP/IP详解
 
 ### 数据库
 
-数据库系统概念
-
-MYSQL必知必会
-
-MYSQL
-
-Redis
+- 数据库系统概念
+- MYSQL必知必会
+- MYSQL
+- Redis
 
 ### 设计模式
 
@@ -52,9 +45,8 @@ Redis
 
 ### 其他
 
-Docker
-
-Kubernets
+- Docker
+- Kubernets
 
 
 
